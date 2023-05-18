@@ -1,5 +1,8 @@
 # Farhan Ahmed's Resume
-![Profile Picture](profile_picture.jpg)
+## Get in Touch
+[![GitHub](icons/github.png)](https://github.com/your-username)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/your-profile)
+[![Twitter](icons/twitter.png)](https://twitter.com/your-handle)
 
 ## Profile
 
